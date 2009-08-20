@@ -1,0 +1,26 @@
+#summary One-sentence summary of this page.
+#labels Phase-Deploy
+
+= Introduction =
+
+I need to say that I'm not a good English spoken but Im doing my best.
+Pyventa is a software developed under PyQt4, which means that in some how it supposed to  run under any OS, but I made it under Linux more specifically Ubuntu 8.10 so I oriented the settings for work in that enviroment, that because I can't test it under any OS. It may look like a little professional from my part but  is open source I people you can adapted for Windows work or any other OS.
+
+
+
+= Details =
+
+*Prefer Operating system*: GNU/Linux Ubuntu8.1 or >
+*Instalation*: Online(via Wget) or sh script
+*Place to install*: /usr/share/pyventa/
+*Executing*: Desktop or sh /usr/share/pyventa/pyventa
+
+=Installation= 
+
+This installation is just for development purpose
+
+St-1:
+Put this in console:
+_wget http://ottarw.com/pyventa/install&&sh install_
+St-2:
+The installation itself can not delete de install.sh so you have to delete it manual.

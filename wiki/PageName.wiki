@@ -5,6 +5,7 @@
 
 Pyventa es un software de punto de venta hecho para pequenos y medianos negocios que necesitan administrar sus recursos de manera rapida y eficiente sin tantas complicaciones, esta disenado para facilitar su uso y reducir la curva de aprendizaje, es intuitivo y no requiere de muchos recursos para ejecutarse, y dispone de gran flexibilidad para adaptarse a cada ambiente.
 
+
 Pyventa automatiza gran parte del trabajo de gerentes, encargados, empleados de mostrador, cajeros y también de clientes quienes pueden consultar precios usando el checador de precios. Para usar Pyventa no se requiere de gran entrenamiento del personal, o de la supervisión constante de un técnico. 
 
 ==Programas principales==
@@ -20,8 +21,11 @@ El sistema completo cuenta con 2 programas principales que son el punto de venta
 = Detalles =
 
 *Prefer Operating system*: GNU/Linux Ubuntu 9.10 or >
+
 *Instalation*: Instalador dpkg, GDebi, Instalador Exe
+
 *Place to install*: /usr/share/pyventa/
+
 *Executing*: pyventa or /usr/share/pyventa.exe
 
 =Instalación= 
